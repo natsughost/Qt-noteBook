@@ -3,6 +3,8 @@ Create a notebook using qt
 
 Supported functions:
 
+Only supports UTF-8
+
 Open function
 
 Save function
